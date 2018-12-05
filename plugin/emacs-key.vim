@@ -1,2 +1,2 @@
 scriptencoding utf-8
-:nmap z :!echo "Hello World!"<CR>
+:nmap <Space> :!echo "Hello World!"<CR>
